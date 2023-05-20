@@ -1,0 +1,32 @@
+[
+    {
+        "email": "bruno1@gmail.com",
+        "fullName": "Bruno U",
+        "userName": "brunou",
+        "password": "bruno12345"
+    },
+    {
+        "email": "bruno2@gmail.com",
+        "fullName": "Bruno U",
+        "userName": "brunod",
+        "password": "bruno12345"
+    },
+    {
+        "email": "bruno3@gmail.com",
+        "fullName": "Bruno U",
+        "userName": "brunot",
+        "password": "bruno12345"
+    },
+    {
+        "email": "bruno4@gmail.com",
+        "fullName": "Bruno U",
+        "userName": "brunoq",
+        "password": "bruno12345"
+    },
+    {
+        "email": "bruno5@gmail.com",
+        "fullName": "Bruno U",
+        "userName": "brunoc",
+        "password": "bruno12345"
+    }
+]

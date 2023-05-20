@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "cypress": "^12.9.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-iframe": "^1.0.1",
+    "cypress-plugin-tab": "^1.0.5",
+    "cypress-wait-until": "^1.7.2",
+    "cypress-xpath": "^2.0.1"
+  }
+}
