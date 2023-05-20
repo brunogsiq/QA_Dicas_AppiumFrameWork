@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "cypress": "^12.8.1"
+  },
+  "name": "ex051_direto_ao_ponto",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "devDependencies": {
+    "cypress-wait-until": "^1.7.2",
+    "cypress-xpath": "^2.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

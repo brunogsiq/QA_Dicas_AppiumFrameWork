@@ -1,0 +1,16 @@
+{
+  "name": "ex01_amazon",
+  "version": "1.0.0",
+  "description": "Prática de Cypress utilizando o site da Amazon",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Bruno G. Siqueira",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.7.0",
+    "cypress-wait-until": "^1.7.2",
+    "cypress-xpath": "^2.0.1"
+  }
+}
