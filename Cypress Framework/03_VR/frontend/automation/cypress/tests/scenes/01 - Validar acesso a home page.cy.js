@@ -1,4 +1,5 @@
-/// <reference types="cypress"/>
+/// <reference types="cypress" /> 
+
 
 import { validateUrl, validateAcceptTerms } from "../lib/functions/01_validAccessUrl";
 
