@@ -1,5 +1,7 @@
 /// <reference types="cypress" /> 
 
+
+
 import { elemEbacShop } from "../page_Objects/ebacStore";
 //var faker = require('faker');
 const { faker } = require('@faker-js/faker');
