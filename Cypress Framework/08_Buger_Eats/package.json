@@ -9,8 +9,9 @@
   "author": "Bruno G. Siqueira",
   "license": "MIT",
   "devDependencies": {
-    "cypress": "^10.8.0",
+    "cypress": "^12.17.1",
     "cypress-file-upload": "^5.0.8",
+    "cypress-wait-until": "^2.0.0",
     "faker": "^5.5.3",
     "gerador-validador-cpf": "^5.0.2"
   },
