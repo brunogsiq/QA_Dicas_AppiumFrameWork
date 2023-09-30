@@ -5,6 +5,7 @@ export function elemTelaCampoDeTrein() {
     return {
         //Url
         baseUrl: "https://wcaquino.me/cypress/componentes.html",
+        baseUrl_3: "https://barrigareact.wcaquino.me/",
 
         //Elementos:
         xTitle: 
