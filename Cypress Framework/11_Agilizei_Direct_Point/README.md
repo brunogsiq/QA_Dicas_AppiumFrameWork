@@ -1,1 +1,0 @@
-# QA_Learn_Cypress_Agilizei_Direct_Point
