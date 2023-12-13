@@ -1,1 +1,0 @@
-# QA_Prac_Cypress_EluminiIt_VR

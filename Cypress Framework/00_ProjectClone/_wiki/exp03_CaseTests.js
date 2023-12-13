@@ -1,4 +1,0 @@
-/*
-Casos de testes - Gherkin
-
-*/
