@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ab0c1c5-b952-45f7-a8b6-a6e619f27cca" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/00_ProjectClone/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/00_ProjectClone/_wiki/exp00_Perguntar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/00_ProjectClone/_wiki/exp01_Documents.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/00_ProjectClone/_wiki/exp02_Structure.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/00_ProjectClone/_wiki/exp03_CaseTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/00_ProjectClone/backend/automation/cypress.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/00_ProjectClone/backend/automation/cypress/fixtures/example.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/00_ProjectClone/backend/automation/cypress/support/commands.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/00_ProjectClone/backend/automation/cypress/support/e2e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/00_ProjectClone/backend/automation/cypress/tests/dates/01_.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/00_ProjectClone/backend/automation/cypress/tests/functions/_01.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/00_ProjectClone/backend/automation/cypress/tests/pageObjects/01.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/00_ProjectClone/backend/automation/cypress/tests/scenes/01.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/00_ProjectClone/backend/automation/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/00_ProjectClone/backend/automation/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/00_ProjectClone/frontend/automation/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/00_ProjectClone/frontend/automation/cypress.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/00_ProjectClone/frontend/automation/cypress/fixtures/example.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/00_ProjectClone/frontend/automation/cypress/support/commands.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/00_ProjectClone/frontend/automation/cypress/support/e2e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/00_ProjectClone/frontend/automation/cypress/tests/lib/dates/_dates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/00_ProjectClone/frontend/automation/cypress/tests/lib/functions/00_requestPostBackEnd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/00_ProjectClone/frontend/automation/cypress/tests/lib/functions/01_validAccessUrl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/00_ProjectClone/frontend/automation/cypress/tests/lib/functions/_cypress.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/00_ProjectClone/frontend/automation/cypress/tests/lib/pageObjects/homePage_.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/00_ProjectClone/frontend/automation/cypress/tests/scenes/01 - Validar.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/00_ProjectClone/testedebloqueiodechamada.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/libraries/pageObjects/campoDeTreinamento.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/00_Conceitos_De_JavaScript/00.1_arrow_this.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/00_Conceitos_De_JavaScript/00.2_promise.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/01_EstruturaDeTestes/01.1_describe_e_it.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/01_EstruturaDeTestes/01.2_skip_only.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/02_AssertivasDeTestes/02.1_equalitys.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/02_AssertivasDeTestes/02.2_truthys.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/02_AssertivasDeTestes/02.3_objectsEquality.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/02_AssertivasDeTestes/02.4_arrays.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/02_AssertivasDeTestes/02.5_types_numbers_strings.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/03_BasicProject/03.01_basic.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/03_BasicProject/03.02_elements.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/03_BasicProject/03.03_links_buttons.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/03_BasicProject/03.04_Hooks.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/03_BasicProject/03.05_text.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/03_BasicProject/03.06_radio.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/03_BasicProject/03.07_checkbox.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/03_BasicProject/03.08_dropList_comboBox.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/03_BasicProject/03.09_comboBoxMulti.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/03_BasicProject/03.10_sync.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/03_BasicProject/03.11_retry.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/03_BasicProject/03.12.newSearchs.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/03_BasicProject/03.13_wait_timeout.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/03_BasicProject/03.14_syncTitle.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/03_BasicProject/03.15_should_x_Then.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/03_BasicProject/03.16_wrap.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/03_BasicProject/03.17_its.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/03_BasicProject/03.18_invoke.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/03_BasicProject/03.19_reutilizandoTitle.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/03_BasicProject/03.20_verificandoCombos.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/03_BasicProject/03.21_alert.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/03_BasicProject/03.22_alertStub.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/03_BasicProject/03.23_confirm.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/03_BasicProject/03.24_prompt.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/03_BasicProject/03.25_desafio.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/03_BasicProject/03.26_iframe.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/03_BasicProject/03.27_popUp.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/03_BasicProject/03.28_clock.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/03_BasicProject/03.29_tick.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/04_Locator/locatorsDiversos.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/05_Fixture_Commands/commands.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/05_Fixture_Commands/fixture.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/06_Dinamic/dinamic.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/06_Dinamic/each.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/e2e/scenes/90_Functional_Tests/01.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/fixtures/example.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/fixtures/userData.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/support/commands.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/cypress/support/e2e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/01_Modern_Application/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/02_Ebac/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/02_Ebac/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/02_Ebac/frontend/cypress.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/02_Ebac/frontend/cypress/e2e/libs/functions/01_acessUrl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/02_Ebac/frontend/cypress/e2e/libs/functions/02_Login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/02_Ebac/frontend/cypress/e2e/libs/functions/03_Cadastro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/02_Ebac/frontend/cypress/e2e/libs/functions/04_Comprar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/02_Ebac/frontend/cypress/e2e/libs/page_Objects/ebacStore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/02_Ebac/frontend/cypress/e2e/tests/01 - Validar acesso a url padrão.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/02_Ebac/frontend/cypress/e2e/tests/02 - Validar acesso a url login.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/02_Ebac/frontend/cypress/e2e/tests/03 - Validar login.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/02_Ebac/frontend/cypress/e2e/tests/04 - Validar cadastro.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/02_Ebac/frontend/cypress/e2e/tests/05 - Validar acesso a url produtos.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/02_Ebac/frontend/cypress/fixtures/example.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/02_Ebac/frontend/cypress/support/commands.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/02_Ebac/frontend/cypress/support/e2e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/02_Ebac/frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/02_Ebac/frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/03_VR/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/03_VR/_wiki/document.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/03_VR/backend/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/03_VR/backend/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/03_VR/backend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/03_VR/backend/features/consulta.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/03_VR/backend/features/step.definitions/consulta_steps.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/03_VR/backend/spec/spec_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/03_VR/frontend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/03_VR/frontend/automation/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/03_VR/frontend/automation/cypress.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/03_VR/frontend/automation/cypress/fixtures/example.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/03_VR/frontend/automation/cypress/support/commands.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/03_VR/frontend/automation/cypress/support/e2e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/03_VR/frontend/automation/cypress/tests/lib/functions/01_validAccessUrl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/03_VR/frontend/automation/cypress/tests/lib/functions/02_validateAcessPV.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/03_VR/frontend/automation/cypress/tests/lib/functions/03_validateAcessOUC.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/03_VR/frontend/automation/cypress/tests/lib/functions/04_validateSearch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/03_VR/frontend/automation/cypress/tests/lib/functions/05_validateInputs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/03_VR/frontend/automation/cypress/tests/lib/functions/_cypress.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/03_VR/frontend/automation/cypress/tests/lib/pageObjects/homePage_.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/03_VR/frontend/automation/cypress/tests/scenes/01 - Validar acesso a home page.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/03_VR/frontend/automation/cypress/tests/scenes/02 - Validar acesso a tela Pra Você.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/03_VR/frontend/automation/cypress/tests/scenes/03 - Validar acesso a tela Onde usar meu cartão.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/03_VR/frontend/automation/cypress/tests/scenes/04 - Validar acesso a tela de buscas pelo mapa.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/03_VR/frontend/automation/cypress/tests/scenes/05 - Validar buscas pelo mapa.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/03_VR/frontend/automation/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/03_VR/frontend/automation/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/04_Ingresso_PtCom/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/04_Ingresso_PtCom/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/04_Ingresso_PtCom/cypress.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/04_Ingresso_PtCom/cypress/e2e/scenes/spec.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/04_Ingresso_PtCom/cypress/fixtures/example.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/04_Ingresso_PtCom/cypress/support/commands.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/04_Ingresso_PtCom/cypress/support/e2e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/04_Ingresso_PtCom/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/04_Ingresso_PtCom/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/05_LocaWeb/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/05_LocaWeb/_wiki/exp01_Documents.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/05_LocaWeb/frontend/automation/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/05_LocaWeb/frontend/automation/cypress.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/05_LocaWeb/frontend/automation/cypress/fixtures/example.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/05_LocaWeb/frontend/automation/cypress/support/commands.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/05_LocaWeb/frontend/automation/cypress/support/e2e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/05_LocaWeb/frontend/automation/cypress/tests/lib/functions/01_validate_Acess_Url.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/05_LocaWeb/frontend/automation/cypress/tests/lib/functions/02_validate_Domains_Br.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/05_LocaWeb/frontend/automation/cypress/tests/lib/functions/03_validate_Domains_Int.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/05_LocaWeb/frontend/automation/cypress/tests/lib/functions/_cypress.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/05_LocaWeb/frontend/automation/cypress/tests/lib/pageObjects/registreDomain.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/05_LocaWeb/frontend/automation/cypress/tests/scenes/01 - Validar acesso a tela de registro de dominio.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/05_LocaWeb/frontend/automation/cypress/tests/scenes/02 - Validar dominio nacional.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/05_LocaWeb/frontend/automation/cypress/tests/scenes/03 - Validar dominio internacional.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/05_LocaWeb/frontend/automation/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/05_LocaWeb/frontend/automation/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/06_Test_Tecnology/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/06_Test_Tecnology/_wiki/exp00_Perguntar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/06_Test_Tecnology/_wiki/exp01_Documents.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/06_Test_Tecnology/_wiki/exp02_Structure.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/06_Test_Tecnology/_wiki/exp03_CaseTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/06_Test_Tecnology/frontend/automation/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/06_Test_Tecnology/frontend/automation/cypress.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/06_Test_Tecnology/frontend/automation/cypress/fixtures/example.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/06_Test_Tecnology/frontend/automation/cypress/support/commands.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/06_Test_Tecnology/frontend/automation/cypress/support/e2e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/06_Test_Tecnology/frontend/automation/cypress/tests/lib/dates/_dates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/06_Test_Tecnology/frontend/automation/cypress/tests/lib/functions/00_requestPostBackEnd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/06_Test_Tecnology/frontend/automation/cypress/tests/lib/functions/01_validAccessUrl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/06_Test_Tecnology/frontend/automation/cypress/tests/lib/functions/_cypress.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/06_Test_Tecnology/frontend/automation/cypress/tests/lib/pageObjects/homePage_.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/06_Test_Tecnology/frontend/automation/cypress/tests/scenes/01 - Validar.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/06_Test_Tecnology/frontend/automation/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/06_Test_Tecnology/frontend/automation/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/07_Amazon/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/07_Amazon/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/07_Amazon/cypress.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/07_Amazon/cypress/cypress.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/07_Amazon/cypress/cypress/fixtures/example.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/07_Amazon/cypress/cypress/support/commands.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/07_Amazon/cypress/cypress/support/e2e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/07_Amazon/cypress/e2e/Home_Page.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/07_Amazon/cypress/fixtures/example.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/07_Amazon/cypress/support/commands.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/07_Amazon/cypress/support/e2e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/07_Amazon/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/07_Amazon/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/08_Buger_Eats/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/08_Buger_Eats/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/08_Buger_Eats/cypress.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/08_Buger_Eats/cypress/e2e/functions/visitar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/08_Buger_Eats/cypress/e2e/scenes/home.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/08_Buger_Eats/cypress/e2e/scenes/signup.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/08_Buger_Eats/cypress/e2e/scenes/validar home page.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/08_Buger_Eats/cypress/e2e/scenes/validar preenchimento de cadastro.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/08_Buger_Eats/cypress/factories/SignupFactory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/08_Buger_Eats/cypress/fixtures/deliver.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/08_Buger_Eats/cypress/fixtures/example.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/08_Buger_Eats/cypress/fixtures/images/cnh-digital.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/08_Buger_Eats/cypress/pages/SignupPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/08_Buger_Eats/cypress/plugins/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/08_Buger_Eats/cypress/support/commands.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/08_Buger_Eats/cypress/support/e2e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/08_Buger_Eats/javascript/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/08_Buger_Eats/javascript/js/avengers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/08_Buger_Eats/javascript/js/cnh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/08_Buger_Eats/javascript/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/08_Buger_Eats/javascript/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/08_Buger_Eats/javascript/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/08_Buger_Eats/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/08_Buger_Eats/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/09_Live_Of_Tests/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/09_Live_Of_Tests/Insomnia_VDT-Season1-Marvel-API.json.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/09_Live_Of_Tests/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/09_Live_Of_Tests/cypress.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/09_Live_Of_Tests/cypress/e2e/scenes/post.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/09_Live_Of_Tests/cypress/fixtures/example.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/09_Live_Of_Tests/cypress/plugins/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/09_Live_Of_Tests/cypress/support/commands.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/09_Live_Of_Tests/cypress/support/e2e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/09_Live_Of_Tests/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/09_Live_Of_Tests/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/09_Live_Of_Tests/vdt-season1-marvel-api" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/10_Alura_Pic/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/10_Alura_Pic/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/10_Alura_Pic/cypress.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/10_Alura_Pic/cypress.env.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/10_Alura_Pic/cypress/e2e/scenes/Ex1_Alura_Busca/alura.busca.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/10_Alura_Pic/cypress/e2e/scenes/Ex2_Alura_Pic/aluraPic.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/10_Alura_Pic/cypress/e2e/scenes/Ex3_Alura_API_REST/alura_pic_api.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/10_Alura_Pic/cypress/e2e/scenes/Ex3_Alura_API_REST/cadastro.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/10_Alura_Pic/cypress/e2e/scenes/Ex3_Alura_API_REST/login.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/10_Alura_Pic/cypress/fixtures/example.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/10_Alura_Pic/cypress/fixtures/usuarios.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/10_Alura_Pic/cypress/plugins/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/10_Alura_Pic/cypress/support/commands.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/10_Alura_Pic/cypress/support/e2e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/10_Alura_Pic/cypress/support/gui_commands.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/10_Alura_Pic/mochawesome-report/assets/MaterialIcons-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/10_Alura_Pic/mochawesome-report/assets/MaterialIcons-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/10_Alura_Pic/mochawesome-report/assets/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/10_Alura_Pic/mochawesome-report/assets/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/10_Alura_Pic/mochawesome-report/assets/app.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/10_Alura_Pic/mochawesome-report/assets/roboto-light-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/10_Alura_Pic/mochawesome-report/assets/roboto-light-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/10_Alura_Pic/mochawesome-report/assets/roboto-medium-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/10_Alura_Pic/mochawesome-report/assets/roboto-medium-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/10_Alura_Pic/mochawesome-report/assets/roboto-regular-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/10_Alura_Pic/mochawesome-report/assets/roboto-regular-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/10_Alura_Pic/mochawesome-report/mochawesome.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/10_Alura_Pic/mochawesome-report/mochawesome.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/10_Alura_Pic/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/10_Alura_Pic/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/11_Agilizei_Direct_Point/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/11_Agilizei_Direct_Point/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/11_Agilizei_Direct_Point/_wiki/exp01_Documents.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/11_Agilizei_Direct_Point/cypress.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/11_Agilizei_Direct_Point/cypress/fixtures/example.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/11_Agilizei_Direct_Point/cypress/support/commands.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/11_Agilizei_Direct_Point/cypress/support/e2e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/11_Agilizei_Direct_Point/cypress/tests/lib/dates/_dates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/11_Agilizei_Direct_Point/cypress/tests/lib/functions/00_requestPostBackEnd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/11_Agilizei_Direct_Point/cypress/tests/lib/functions/01_1_validCritAce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/11_Agilizei_Direct_Point/cypress/tests/lib/functions/01_validAccessUrl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/11_Agilizei_Direct_Point/cypress/tests/lib/functions/02_validModalEntrada.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/11_Agilizei_Direct_Point/cypress/tests/lib/functions/03_validarCadNovaEnt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/11_Agilizei_Direct_Point/cypress/tests/lib/functions/04_validarCadExit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/11_Agilizei_Direct_Point/cypress/tests/lib/functions/05_validarExcEntExit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/11_Agilizei_Direct_Point/cypress/tests/lib/functions/_cypress.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/11_Agilizei_Direct_Point/cypress/tests/lib/pageObjects/devFinance.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/11_Agilizei_Direct_Point/cypress/tests/scenes/01 - Validar acesso a url padrao do projeto.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/11_Agilizei_Direct_Point/cypress/tests/scenes/01_1 - Validar criterios de aceite.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/11_Agilizei_Direct_Point/cypress/tests/scenes/02 - Validar visualização do modal de cadastro de nova transacao.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/11_Agilizei_Direct_Point/cypress/tests/scenes/03 - Validar cadastro de nova transacao.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/11_Agilizei_Direct_Point/cypress/tests/scenes/04 - Validar cadastro de nova saída.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/11_Agilizei_Direct_Point/cypress/tests/scenes/05 - Validar exclusao de entrada e saída.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/11_Agilizei_Direct_Point/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/11_Agilizei_Direct_Point/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/12_BDD_Cucumber/cypress.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/12_BDD_Cucumber/cypress/e2e/duck.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/12_BDD_Cucumber/cypress/e2e/spec.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/12_BDD_Cucumber/cypress/fixtures/example.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/12_BDD_Cucumber/cypress/support/commands.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/12_BDD_Cucumber/cypress/support/e2e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/12_BDD_Cucumber/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Cypress Framework/12_BDD_Cucumber/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/00_EstruturaDeProjetoEmPasta_Ex_Nome_Projeto/src/auto/keywords/kws_home.robot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/00_EstruturaDeProjetoEmPasta_Ex_Nome_Projeto/src/auto/pages/home_page.robot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/00_EstruturaDeProjetoEmPasta_Ex_Nome_Projeto/src/config/hooks.robot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/00_EstruturaDeProjetoEmPasta_Ex_Nome_Projeto/src/config/package.robot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/00_EstruturaDeProjetoEmPasta_Ex_Nome_Projeto/test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/00_EstruturaDeProjetoEmPasta_Ex_Nome_Projeto/test/features/ProjetoEstruturado.robot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/01_Amazon/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/01_Amazon/Keywords/Resources.robot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/01_Amazon/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/01_Amazon/TestCase/01_Home_Page.robot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/01_Amazon/TestCase/02_Eletronicos_e_Tecnologia.robot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/01_Amazon/TestCase/03_Pesquisar_Produto.robot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/01_Amazon/TestCase/04.robot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/01_Amazon/TestCase/04_Cadastro.robot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/01_Amazon/TestCase/05.robot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/01_Amazon/pageObjects/Variables.robot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/02_Demo_Blaze/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/02_Demo_Blaze/Ex18_Site_Demo_Blaze.robot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/02_Demo_Blaze/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/03_Form/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/03_Form/src/auto/keywords/kws_home.robot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/03_Form/src/auto/pages/home_page.robot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/03_Form/src/config/hooks.robot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/03_Form/src/config/package.robot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/03_Form/test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/03_Form/test/features/01_ExercicioParaEntregar.robot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/03_Form/test/features/02_ExercicioParaEntregar.robot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/03_Form/test/features/03_ExercicioParaEntregar.robot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/03_Form/test/features/04_ExercicioParaEntregar.robot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/03_Form/test/features/05_ExercicioParaEntregar.robot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/04_Iterasys_Blog_Test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/04_Iterasys_Blog_Test/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/04_Iterasys_Blog_Test/ResourceBlogTests.robot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/04_Iterasys_Blog_Test/TestesBlogTests.robot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/05_Trader_Sticker/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/05_Trader_Sticker/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/05_Trader_Sticker/resources/main.resource" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/05_Trader_Sticker/resources/pages/dash.resource" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/05_Trader_Sticker/resources/pages/login.resource" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/05_Trader_Sticker/tests/01.1_Login.robot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/05_Trader_Sticker/tests/01_Home_Conteudo.robot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Robot Framework/05_Trader_Sticker/tests/02_Trade.robot" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="2XCK8d7ISAmJ2ohQzVv8NufrWPP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="My_Application_01.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ab0c1c5-b952-45f7-a8b6-a6e619f27cca" name="Changes" comment="" />
+      <created>1698127483180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698127483180</updated>
+    </task>
+    <servers />
+  </component>
+</project>
